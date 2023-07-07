@@ -10,3 +10,6 @@
 [submodule "jskgd/stable-diffusion-webui-inspiration"]
 	path = jskgd/stable-diffusion-webui-inspiration
 	url = https://github.com/yfszzx/stable-diffusion-webui-inspiration.git
+[submodule "jskgd/stable-diffusion-webui-plus"]
+	path = jskgd/stable-diffusion-webui-plus
+	url = https://github.com/yfszzx/stable-diffusion-webui-plus.git
