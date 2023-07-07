@@ -7,3 +7,6 @@
 [submodule "jskgd/stable-diffusion-webui-images-browser"]
 	path = jskgd/stable-diffusion-webui-images-browser
 	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
+[submodule "jskgd/stable-diffusion-webui-inspiration"]
+	path = jskgd/stable-diffusion-webui-inspiration
+	url = https://github.com/yfszzx/stable-diffusion-webui-inspiration.git
