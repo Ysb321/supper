@@ -1,0 +1,9 @@
+[submodule "sd-dynamic-thresholding"]
+	path = sd-dynamic-thresholding
+	url = https://github.com/mcmonkeyprojects/sd-dynamic-thresholding.git
+[submodule "stable-diffusion-webui"]
+	path = stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "jskgd/stable-diffusion-webui-images-browser"]
+	path = jskgd/stable-diffusion-webui-images-browser
+	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
