@@ -191,7 +191,7 @@
     "sd_lora": "None",
     "lora_preferred_name": "Alias from file",
     "lora_add_hashes_to_infotext": true,
-    "tac_tagFile": "danbooru.csv",
+    "tac_tagFile": "e621.csv",
     "tac_active": true,
     "tac_activeIn.txt2img": true,
     "tac_activeIn.img2img": true,
