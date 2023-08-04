@@ -384,7 +384,7 @@
     "artuitw_quicksettings2settings": true,
     "artuitw_settings2promptswidth": true,
     "artuitw_settings2promptsXratio": 1,
-    "artuitw_galleryheightVH": 50,
+    "artuitw_galleryheightVH": 80,
     "control_net_inpaint_blur_sigma": 7,
     "control_net_no_high_res_fix": false
 }
