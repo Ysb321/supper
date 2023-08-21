@@ -1,0 +1,29 @@
+From d2487f8a181f71a4be0f2a5f8450c97285eb039f Mon Sep 17 00:00:00 2001
+From: Linaqruf <furqanil.taqwa@gmail.com>
+Date: Sun, 11 Jun 2023 11:07:14 +0700
+Subject: [PATCH] Add New Label for Hires Prompt
+
+---
+ modules/ui.py | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/modules/ui.py b/modules/ui.py
+index 5a37f2c..bae94b8 100644
+--- a/modules/ui.py
++++ b/modules/ui.py
+@@ -551,10 +551,10 @@ def create_ui():
+                                 with gr.Row(elem_id="txt2img_hires_fix_row4", visible=opts.hires_fix_show_prompts) as hr_prompts_container:
+                                     with gr.Column(scale=80):
+                                         with gr.Row():
+-                                            hr_prompt = gr.Textbox(label="Prompt", elem_id="hires_prompt", show_label=False, lines=3, placeholder="Prompt for hires fix pass.\nLeave empty to use the same prompt as in first pass.", elem_classes=["prompt"])
++                                            hr_prompt = gr.Textbox(label="Hires prompt", elem_id="hires_prompt", show_label=False, lines=3, placeholder="Prompt for hires fix pass.\nLeave empty to use the same prompt as in first pass.", elem_classes=["prompt"])
+                                     with gr.Column(scale=80):
+                                         with gr.Row():
+-                                            hr_negative_prompt = gr.Textbox(label="Negative prompt", elem_id="hires_neg_prompt", show_label=False, lines=3, placeholder="Negative prompt for hires fix pass.\nLeave empty to use the same negative prompt as in first pass.", elem_classes=["prompt"])
++                                            hr_negative_prompt = gr.Textbox(label="Hires negative prompt", elem_id="hires_neg_prompt", show_label=False, lines=3, placeholder="Negative prompt for hires fix pass.\nLeave empty to use the same negative prompt as in first pass.", elem_classes=["prompt"])
+ 
+ 
+                         elif category == "batch":
+-- 
+2.40.0.windows.1
+
