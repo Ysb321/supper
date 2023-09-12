@@ -1,7 +1,7 @@
 import subprocess
 
 repo_url = 'https://github.com/AUTOMATIC1111/stable-diffusion-webui'
-destination_path = '/content/Repo'
+destination_path = 'Repo'
 
 # Run the git clone command
 try:
