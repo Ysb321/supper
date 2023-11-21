@@ -1,0 +1,12 @@
+{
+    "path_checkpoints": "/content/Fooocus-MRE/models/checkpoints",
+    "path_loras": "/content/Fooocus-MRE/models/loras",
+    "path_embeddings": "/content/Fooocus-MRE/models/embeddings",
+    "path_vae_approx": "/content/Fooocus-MRE/models/vae_approx",
+    "path_upscale_models": "/content/Fooocus-MRE/models/upscale_models",
+    "path_inpaint": "/content/Fooocus-MRE/models/inpaint",
+    "path_controlnet": "/content/Fooocus-MRE/models/controlnet",
+    "path_clip_vision": "/content/Fooocus-MRE/models/clip_vision",
+    "path_fooocus_expansion": "/content/Fooocus-MRE/models/prompt_expansion/fooocus_expansion",
+    "path_outputs": "/content/drive/MyDrive/output"
+}
