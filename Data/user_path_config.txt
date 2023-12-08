@@ -1,0 +1,14 @@
+{
+    "modelfile_path": "/content/Fooocus-MRE/models/checkpoints",
+    "lorafile_path": "/content/Fooocus-MRE/models/loras",
+    "embeddings_path": "/content/Fooocus-MRE/models/embeddings",
+    "clip_vision_path": "/content/Fooocus-MRE/models/clip_vision",
+    "controlnet_path": "/content/Fooocus-MRE/models/controlnet",
+    "styles_path": "/content/Fooocus-MRE/sdxl_styles",
+    "wildcards_path": "/content/Fooocus-MRE/wildcards",
+    "vae_approx_path": "/content/Fooocus-MRE/models/vae_approx",
+    "upscale_models_path": "/content/Fooocus-MRE/models/upscale_models",
+    "inpaint_models_path": "/content/Fooocus-MRE/models/inpaint",
+    "fooocus_expansion_path": "/content/Fooocus-MRE/models/prompt_expansion/fooocus_expansion",
+    "temp_outputs_path": "/content/drive/MyDrive/output"
+}
